@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "FrontWSVenta"
+  "defaultProject": "FrontWSVenta",
+  "cli": {
+    "analytics": "45f90f15-37d3-48c7-948e-364134b9948b"
+  }
 }
